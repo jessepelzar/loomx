@@ -1,0 +1,24 @@
+{
+  "name": "loomx",
+  "version": "1.0.0",
+  "description": "\"lighting and stuff\"",
+  "main": "nodes.js",
+  "scripts": {
+    "test": "echo\"error: no test specified\" && exit 1",
+    "start": "node nodes.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessepelzar/loomx.git"
+  },
+  "keywords": [
+    "loomx",
+    "lighting"
+  ],
+  "author": "Jesse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessepelzar/loomx/issues"
+  },
+  "homepage": "https://github.com/jessepelzar/loomx#readme"
+}
