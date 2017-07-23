@@ -26,15 +26,13 @@
 
 #section_two {
   width: 100%;
-  height: relative;
-  /*background-color: #6b6b6b;*/
   position: relative;
+  height: auto;
 }
 
 .background_image {
   position: relative;
   width: 100%;
-  height: auto;
 }
 
 about span{
@@ -44,9 +42,21 @@ about span{
   font-weight: 100;
   color: white;
   background: rgba(0, 0, 0, 0.7);
-  padding: 1%;
+  padding: 0;
   top: 72%;
   max-width: 40%;
   text-align: left;
   right: 20px;
+}
+
+#section_three {
+  width: 100%;
+  height: relative;
+  position: relative;
+}
+
+.ledTubes {
+  position: relative;
+  width: 100%;
+  height: auto;
 }
